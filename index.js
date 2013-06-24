@@ -13,8 +13,8 @@ const execSync = (process) => {
 	});
 };
 
-const start_year = 2012;
-const start_month = 2;
+const start_year = 2013;
+const start_month = 6;
 const start_day = 15;
 const end_year = 2016;
 const end_month = 12;
@@ -54,7 +54,7 @@ const main = async () => {
 }
 
 const change_date = async() => {
-	await execSync("date 11-09-2022");
+	await execSync("date 11-10-2022");
 }
 
 main();
