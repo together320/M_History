@@ -13,7 +13,7 @@ const execSync = (process) => {
 	});
 };
 
-const start_year = 2022;
+const start_year = 2018;
 const start_month = 6;
 const start_day = 5;
 const end_year = 2022;
