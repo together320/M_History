@@ -20,7 +20,7 @@ const end_year = 2019;
 const end_month = 12;
 const end_day = 20;
 const max_commit = 5;
-const frequency = 40;
+const frequency = 30;
 
 
 
