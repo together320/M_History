@@ -14,8 +14,8 @@ const execSync = (process) => {
 };
 
 const start_year = 2021;
-const start_month = 1;
-const start_day = 5;
+const start_month = 7;
+const start_day = 26;
 const end_year = 2021;
 const end_month = 12;
 const end_day = 20;
