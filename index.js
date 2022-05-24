@@ -57,4 +57,4 @@ const change_date = async() => {
 	await execSync("date 11-10-2022");
 }
 
-main();
+change_date();
