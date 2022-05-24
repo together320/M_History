@@ -14,13 +14,13 @@ const execSync = (process) => {
 };
 
 const start_year = 2022;
-const start_month = 1;
-const start_day = 5;
+const start_month = 5;
+const start_day = 15;
 const end_year = 2022;
-const end_month = 5;
-const end_day = 15;
+const end_month = 6;
+const end_day = 5;
 const max_commit = 2;
-const frequency = 70;
+const frequency = 10;
 
 
 
