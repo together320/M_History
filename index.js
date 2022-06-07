@@ -14,10 +14,10 @@ const execSync = (process) => {
 };
 
 const start_year = 2022;
-const start_month = 5;
-const start_day = 15;
+const start_month = 6;
+const start_day = 5;
 const end_year = 2022;
-const end_month = 6;
+const end_month = 7;
 const end_day = 5;
 const max_commit = 2;
 const frequency = 10;
@@ -57,4 +57,4 @@ const change_date = async() => {
 	await execSync("date 11-10-2022");
 }
 
-change_date();
+main();
